@@ -1,0 +1,1 @@
+serial,GPS_date_YYYY-MM-DD,GPS_utc_HH:MM:SS,GPS_YYYY-MM-DD_HH:MM:SS,lat,lon,hdop,fix,cog,speed,alt,data_voltage,solar_charge,solar_current,nsats,vdop,geo,activity,inactivity,temperature,time_to_fix

@@ -1,0 +1,5 @@
+serial,on_hand,deployed,end_data,failed,removed,recovered,deploy_location,bird_ID,sex,deploy_seq,notes,icon_color
+1D658,20170101,20170601,,,,,Sprague,ADM04,male,1,,#E41A1C
+1D6F4,20170101,20170601,,,,,Machias,ADM01,male,2,,#377EB8
+1DFAB,20170101,20170601,,,,,Wash,ADM03,male,3,,#4DAF4A
+1B570,20170101,20170601,,,,,Little,ADF02,female,4,,#984EA3
